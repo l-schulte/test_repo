@@ -9,3 +9,4 @@ just a test
 ## Changes on rebased_pr
 - First branch change
 - Second branch change
+- Third branch change (after rebase)
